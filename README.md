@@ -110,7 +110,7 @@
 # Boss戰: Orphion, Fading Light(第一階段)
 <img width="432" height="439" alt="image" src="https://github.com/user-attachments/assets/efbf49b7-ab72-4a0f-90ff-045d04fcb221" />
 
-# Boss機制
+## Boss機制
 ### 彈幕
 記得，在場地上看到基本上所有的實體，像是光柱、地上的火、Boss往你發射的碎片、太陽噴出來的小火焰、黑洞吸進去的黑色不明物體，**這些都會讓你受傷**。
 
