@@ -1,4 +1,4 @@
-# 關卡1: Tower Hold Room
+# 關卡1: Tower Room
 **通關目標: 一位玩家待在中央的塔上，直到倒數計時結束**
 <img width="1232" height="626" alt="image" src="https://github.com/user-attachments/assets/2f49cb13-ea30-4675-bd49-a88d52daf712" />
 ## 關卡機制
