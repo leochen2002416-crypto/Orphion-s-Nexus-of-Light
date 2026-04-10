@@ -75,7 +75,9 @@
 ---
 # 關卡3B: Maze Room
 **通關目標: 跟著持有Light Crystal玩家的指引走過隱形迷宮，完成指定任務，來到終點**
+
 **本關卡只要超過一個人不懂機制體驗就會下降非常多，所以新手必須重點閱讀**
+
 <img width="1230" height="623" alt="image" src="https://github.com/user-attachments/assets/b45c92b6-e914-4ed7-afe1-9a9c147bdea0" />
 
 ## 關卡機制
