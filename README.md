@@ -276,9 +276,8 @@ Parasite血量歸零後，會播放一段動畫，Parasite會被Orphion吼，之
   - +45% Walk Speed
   - +90% Main Attack Damage
 - Cherubim II
-  - +475/3s Life Steal
-  - +100% Thorns
-  - +100% Reflection
+  - +500/3s Life Steal
+  - +40% Elemental Damage
 - Cherubim III
   - +20 all skill points
 - Neophyte (3rd Room Rare Buff)
