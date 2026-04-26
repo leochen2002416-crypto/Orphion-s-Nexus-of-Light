@@ -260,7 +260,7 @@ Parasite血量歸零後，會播放一段動畫，Parasite會被Orphion吼，之
   - +20000/3s Poison
 - Anti III
   - +50 Defence
-  - +100% Sprint
+  - +50% Exploding
   - + Explosive Impact Major ID
 - Ophanim I
   - +30 Defence
@@ -270,8 +270,8 @@ Parasite血量歸零後，會播放一段動畫，Parasite會被Orphion吼，之
   - +25% Healing Efficiency
   - +100% Health Regen
 - Ophanim III
-  - +3500 Health
-  - +Guardian Major ID
+  - +5000 Health
+  - +600 Health Regen
 - Cherubim I
   - +45% Walk Speed
   - +90% Main Attack Damage
